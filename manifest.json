@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Popup New Tab",
+  "version": "0.5",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "tab/index.html",
+    "default_title": "popup tab!"
+  }
+}
